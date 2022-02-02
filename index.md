@@ -6,12 +6,6 @@ tags: example-tag
 pitch: A very brief, one-line description of your event
 
 ---
+SnowFROC (Front Range OWASP Conference) is an annual, one-day premier application security event, which is hosted physically in Denver, Colorado US. SnowFROC typically brings in about 400 people, and focuses on relevant and exciting presentations, as well as spectacular hands-on workshops and training, which deleve into many facets of cybersecurity.
 
-This is an example of an Event information page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
+What sets SnowFROC apart from other conferences, is its exceptional value and inclusive atmosphere: Hands-on training, excellent food, spectacular networking, great location/venue and professional orchestration. For reference, tickets typically cost between $75 and $105 per person and that includes breakfast, lunch, presentations, vendor giveaways, a panel discussion and optional hands-on training and workshops. You are not likely to find a better value for your money, or a better way to spend your time learning and netwokring. 
